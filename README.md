@@ -30,9 +30,12 @@
 ---
 
 ## 🥇 Award Record 🥇
+
 ### 2021 캡스톤 설계 우수상
+  -  https://github.com/sw-dreamer/industrial-security-paper-competition-2024
 
 ### 2024 국제 산업보안논문경진대회 장려상
+  -  https://github.com/sw-dreamer/capstone-ai-project-hufs-2021
 
 ---
 
