@@ -1,7 +1,9 @@
 # 👋 Hi there! I'm Woo Seong Wook
 
-🎓 MSc Student @ University of Portsmouth  
+🎓 MSc Student @ University of Portsmouth
+
 🎓 B.S. in [Computer and Electronic Systems Engineering] @ Hankuk University of Foreign Studies
+
 💻 Former Solution Engineer @ Somansa Co., Ltd.  
 
 🇰🇷 Based in South Korea
