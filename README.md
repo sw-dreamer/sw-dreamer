@@ -22,29 +22,17 @@
 
 ### 🔧 Solution Engineer @ Somansa Co., Ltd.
 - Deployed and operated host security solutions
-- Installed software on KT Cloud’s Red Hat OS (first in company)
+- Installed software on KT Cloud’s Red Hat OS
 - Participated in cloud-related technical meetings
-
-### 📦 National Information Resources Service
 - Migrated OS and databases for a government project
 - Diagnosed and resolved cross-platform issues (Windows Vista–11)
 
-### 🧠 AI Capstone Project
-- Led a team at HUFS AI Center, won Excellence Award
-- Tackled complex issues and ensured successful project delivery
-
-### 📊 Real-time Trading System
-- Master Node: MySQL for storage  
-- Slave Nodes: ML processing & Kafka streaming  
-- Built on top of Hadoop Master-Slave cluster
-
 ---
 
-## 📈 Stats
+## 🥇 Award Record 🥇
+### 2021 캡스톤 설계 우수상
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=html)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+### 2024 국제 산업보안논문경진대회 장려상
 
 ---
 
