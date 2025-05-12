@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Woo Seong Wook
 
-🎓 MSc Student @ University of Portsmouth
+🎓 MSc in [Economic Crime] @ University of Portsmouth
 
 🎓 B.S. in [Computer and Electronic Systems Engineering] @ Hankuk University of Foreign Studies
 
